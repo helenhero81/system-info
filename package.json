@@ -1,0 +1,15 @@
+{
+    "name": "electron-system-info",
+    "version": "1.0.0",
+    "description": "An Electron app to display system properties.",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "devDependencies": {
+        "electron": "^26.6.10"
+    },
+    "keywords": []
+}
